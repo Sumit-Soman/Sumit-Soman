@@ -1,4 +1,4 @@
-# 🚀 **Innovative Test Strategist and Architect**
+# 🚀 ** Test Automation Strategist and Architect **
 
 I'm **Sumit Soman**, an innovative QA Transformation Strategist, Test Automation Engineer, and Digital Transformation Leader with over 13 years of experience at the intersection of product, engineering, and quality assurance. I specialize in designing robust testing frameworks and driving digital excellence for cloud environments.
 
